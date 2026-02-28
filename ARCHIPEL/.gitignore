@@ -1,7 +1,0 @@
-node_modules/
-dist/
-.env
-*.log
-.archipel_identity_*.json
-ui/node_modules/
-ui/dist/
